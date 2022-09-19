@@ -12,5 +12,5 @@ class Solution:
             if heights[i] != temp[i]:
                 counter += 1
                 
-        
+        s
         return counter 
